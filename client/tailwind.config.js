@@ -17,7 +17,7 @@ module.exports = {
       },
     },
   },
-  plugins: [require("@tailwindcss/typography"), require("daisyui")],
+  plugins: [require(""), require("daisyui")],
 
   daisyui: {
     themes: [], // true: all themes | false: only light + dark | array: specific themes like this ["light", "dark", "cupcake"]
